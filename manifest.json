@@ -6,5 +6,5 @@
    "UniqueID": "PurrPlump.AbigailWG",
    "EntryDll": "AbigailWG.dll",
    "MinimumApiVersion": "2.0",
-   "UpdateKeys": []
+   "UpdateKeys": [ "GitHub: purrineN/AbigailWG" ]
 }
