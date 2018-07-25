@@ -1,7 +1,7 @@
 ﻿{
    "Name": "Abigail WG Mod",
    "Author": "Purrine + Plumpitup",
-   "Version": "1.0.1",
+   "Version": "1.0.2",
    "Description": "Abigail gains weight based on her heart level.",
    "UniqueID": "PurrPlump.AbigailWG",
    "EntryDll": "AbigailWG.dll",
